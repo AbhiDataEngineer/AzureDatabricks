@@ -1,0 +1,7 @@
+# Databricks notebook source
+# MAGIC %md ### Version7
+# MAGIC print("Hello")
+
+# COMMAND ----------
+
+print("My second command")
